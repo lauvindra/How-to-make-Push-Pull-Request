@@ -23,5 +23,7 @@
 * Create Personal Access Token on GitHub
 * Settings => Developer Settings => Personal Access Token => Generate New Token (Give your password) => Fillup the form => click Generate token => Copy the generated Token
 
+# 4.Creating a new branch 
+* git push -u origin your_new_branch_name 
 
 
